@@ -37,6 +37,4 @@ public class LoginServlet extends HttpServlet {
         }
 
     }
-
-    //write your code here!
 }
